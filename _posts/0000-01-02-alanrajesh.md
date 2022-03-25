@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Love For All, Hatred For None
 Use the left arrow to go back!
